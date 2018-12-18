@@ -1,5 +1,7 @@
 <?php
-	class clsWorker{
+class clsWorker{
+	public function __construct() {
 		
-	}
+	}		
+}
 ?>
